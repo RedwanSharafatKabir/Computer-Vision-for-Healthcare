@@ -1,6 +1,6 @@
 # Computer Vision & Medical Image Analysis
 
-Lecture notes, code, and real-life solutions for the **Computer Vision / Medical Image Analysis**, from the Health Informatics Research.
+Lecture notes, code, and real-life solutions by **Computer Vision and Medical Image Analysis**, for Health Informatics Research.
 
 The journey covers the full pipeline of medical image analysis: from image acquisition, enhancement, and feature extraction to deep learning models for classification, detection, and segmentation, and on to transformers and generative models.
 
