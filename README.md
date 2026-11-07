@@ -1,8 +1,8 @@
 # Computer Vision & Medical Image Analysis
 
-Lecture notes, code, and home-task solutions for the **Computer Vision / Medical Image Analysis** course at **Daffodil International University (DIU)**, from the Health Informatics Research Lab (HIRL) slide series.
+Lecture notes, code, and real-life solutions for the **Computer Vision / Medical Image Analysis**, from the Health Informatics Research.
 
-The course covers the full pipeline of medical image analysis: from image acquisition, enhancement, and feature extraction to deep learning models for classification, detection, and segmentation, and on to transformers and generative models.
+The journey covers the full pipeline of medical image analysis: from image acquisition, enhancement, and feature extraction to deep learning models for classification, detection, and segmentation, and on to transformers and generative models.
 
 ---
 
@@ -14,7 +14,6 @@ The course covers the full pipeline of medical image analysis: from image acquis
 - [Suggested Repository Structure](#suggested-repository-structure)
 - [Getting Started](#getting-started)
 - [Datasets](#datasets)
-- [Acknowledgements](#acknowledgements)
 
 ---
 
@@ -33,8 +32,6 @@ The course covers the full pipeline of medical image analysis: from image acquis
 | 14 | Semi-, Self-, and Unsupervised Learning | SimCLR, FixMatch, autoencoders, anomaly detection |
 | Extra | Image Recognition & Object Detection | Bounding boxes, YOLO vs. R-CNN |
 | Extra | Vision Transformers (ViT) | Patch embedding, self-attention, ViT variants |
-
-> Slides for Lectures 4, 7, 10, and 11 are not included in this repository.
 
 ---
 
@@ -236,9 +233,3 @@ Typical libraries used across the course: **NumPy, pandas, Matplotlib, OpenCV, s
 | Course-provided dataset | MobileNetV2 hyperparameter tuning (Lecture 6) |
 
 Datasets are not included in this repository. Download them from their original sources and place them in the `data/` folder.
-
----
-
-## Acknowledgements
-
-Course material by the **Health Informatics Research Lab (HIRL), Daffodil International University**. This repository is a personal study and assignment record based on those lecture slides.
